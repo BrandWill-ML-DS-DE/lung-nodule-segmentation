@@ -64,11 +64,11 @@ bash setup.sh
    
    python preprocess.py
    
-2. Train:  ```bash
-   
+2. Train:
+   ```bash
    python train.py
    
-3. Extract Features:
+4. Extract Features:
    
    python radiomics.py
    
