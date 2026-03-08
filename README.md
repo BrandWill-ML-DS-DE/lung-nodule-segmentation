@@ -87,3 +87,5 @@ bash setup.sh
 * **[ ] Attention U-Net:** Implement Attention Gates to focus the model on small, sub-centimeter nodules.
 * **[ ] Malignancy Classifier:** Use extracted Radiomics features to train a Random Forest classifier.
 * **[ ] 3D Slicer Plugin:** Integrate the model directly into clinical viewing software.
+
+> **Disclaimer:** This tool is for research purposes only and is not cleared for clinical diagnosis.
