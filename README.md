@@ -58,6 +58,12 @@ git clone [https://github.com/your-username/lung-nodule-segmentation.git](https:
 cd lung-nodule-segmentation
 bash setup.sh
 ```
+### 2. Pipeline Execution
+
+1. Preprocess: Place LIDC-IDRI data in data/ and run:
+2. Train:  ```bash
+3. Extract Features:
+
 ---
 
 ## 📊 Results
