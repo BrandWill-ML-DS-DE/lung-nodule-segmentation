@@ -79,3 +79,11 @@ bash setup.sh
 | Metric | Value |
 |--------|-------|
 | Dice Score | ~0.78 (example) |
+   
+---
+
+## 📉 Future Clinical Roadmap
+
+* **[ ] Attention U-Net:** Implement Attention Gates to focus the model on small, sub-centimeter nodules.
+* **[ ] Malignancy Classifier:** Use extracted Radiomics features to train a Random Forest classifier.
+* **[ ] 3D Slicer Plugin:** Integrate the model directly into clinical viewing software.
