@@ -61,7 +61,7 @@ bash setup.sh
 ### 2. Pipeline Execution
 
 1. Preprocess: Place LIDC-IDRI data in data/ and run:
-   
+   ```bash
    python preprocess.py
    
 2. Train:
@@ -69,7 +69,7 @@ bash setup.sh
    python train.py
    
 4. Extract Features:
-   
+   ```bash
    python radiomics.py
    
 ---
